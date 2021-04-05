@@ -1,2 +1,2 @@
 config:
-  info: I'm the UAT file, version = 1
+  info: "I'm the UAT file, version = 1"
