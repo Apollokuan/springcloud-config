@@ -1,1 +1,2 @@
-I'm the dev file, version = 1
+config:
+  info: I'm the UAT file, version = 1
